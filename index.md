@@ -4,7 +4,7 @@
   
   Currently located in Berlin, I also fancy the good weather of the French Côte d'Azur, the Dutch cheese and the traditional little towns of the Alpen countries. I'm _open to new professional opprtunities_ across Western and Central Europe (among others DE, FR, CH, AT, BENELUX, ES, IT, MT, UK, IR), whereas especially for Germany and France I possess a work permit which basically allows me to start immediately. Employers, HRs and job agencies are therefore welcome to reach out by droping me a line via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring me](+33695634584).  
   
-
+  Speak fluent German, French, English and Chinese.
 
 ### Career interest
 
