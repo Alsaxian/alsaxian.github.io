@@ -8,9 +8,9 @@
 
 ### Xian's career interest
 
-#### Where I am now
+#### Where he is now
 Build data storage, processing and analysis pipeline for companies' and end users' projects.
-#### Where I am going
+#### Where he is going
 Make every data analysis "_cloudy_" and serverless.
 ```sh
 docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --publish=7687:7687 --volume=$HOME/pathtoyourheart/import:/import \ 
@@ -27,6 +27,7 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
         "IDE": "VS Code",
         "cloud platform": "Azure",
         "Kubernetes tool": "Helm",
+        "Database": "Neo4j",
         "language": ["Python", "R"],
         "command line tool": "Windows Terminal",
         "data visualization": ["R Markdown", "Plotly"]
@@ -39,14 +40,10 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
         "hotel": "Trivago"
     }        
 }
-
 ```
+### Other things he knows
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+`Docker`, `Kubernetes`, `Spark`, `Git`, `SQL`, `Java`, `C#`, `SAS`, `machine learning`, `statistics`, <s>`make sushis`</s> and many more.
 
 - Bulleted
 - List
