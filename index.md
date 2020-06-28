@@ -13,7 +13,10 @@ Build data storage, processing and analysis pipeline for companies' and end user
 #### Where I am going
 Make every data analysis "_Cloudy_" and serverless.
 ```sh
-docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --publish=7687:7687 --volume=$HOME/pathtoyourheart/import:/import --volume=$HOME/pathtoyourheart/data:/data --volume=$HOME/pathtoyourheart/plugins:/plugins --volume=$HOME/pathtoyourheart/conf:/conf --env NEO4JLABS_PLUGINS='[\"apoc\"]' -e NEO4J_apoc_export_file_enabled=true -e NEO4J_apoc_import_file_enabled=true -e NEO4J_apoc_import_file_use__neo4j__config=true -e NEO4J_dbms_security_procedures_unrestricted=apoc.\* --env NEO4J_dbms_memory_pagecache_size=4G --env NEO4J_dbms_memory_heap_max__size=8G --env NEO4J_AUTH=neo4j/youllneverknowxianspassword --env NEO4J_ACCEPT_LICENSE_AGREEMENT=yes  --env NEO4J_dbms_connector_https_advertised__address="localhost:7473" --env NEO4J_dbms_connector_http_advertised__address="localhost:7474"  --env NEO4J_dbms_connector_bolt_advertised__address="localhost:7687" neo4j:enterprise
+docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --publish=7687:7687 --volume=$HOME/pathtoyourheart/import:/import \ 
+--volume=$HOME/pathtoyourheart/data:/data --volume=$HOME/pathtoyourheart/plugins:/plugins --volume=$HOME/pathtoyourheart/conf:/conf --env NEO4JLABS_PLUGINS='[\"apoc\"]' \
+-e NEO4J_apoc_export_file_enabled=true -e NEO4J_apoc_import_file_enabled=true -e NEO4J_apoc_import_file_use__neo4j__config=true -e NEO4J_dbms_security_procedures_unrestricted=apoc.\* --env NEO4J_dbms_memory_pagecache_size=4G --env NEO4J_dbms_memory_heap_max__size=8G --env NEO4J_AUTH=neo4j/youllneverknowxianspassword --env NEO4J_ACCEPT_LICENSE_AGREEMENT=yes  --env NEO4J_dbms_connector_https_advertised__address="localhost:7473" --env NEO4J_dbms_connector_http_advertised__address="localhost:7474"  --env NEO4J_dbms_connector_bolt_advertised__address="localhost:7687" \
+neo4j:enterprise
 ``` 
 
 ```markdown
