@@ -61,7 +61,17 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Xian's background
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alsaxian/alsaxian.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file. 
+4. Data Scientist
+  - February 2020 till now, Island Labs, Germany
+  - Data Analysis and Pipeline building for kitchen provider and users
+3. Internship Biostatistics and machine learning
+  - April - September 2018, Firalis SA, France
+  - Statistical bio-marker analysis and machine learning on high dimensional NGS RNA-Seq data
+2. Internship Statistics and machine learning
+  - July - August 2017, Centre Hospitalier de Rouffach, France
+  - Application of statistical and machine learning methods to psychomotor tests 
+1. Internship Risk Management
+  - November 2015 – February 2016, Bank of Communications (Luxembourg), Luxembourg
    
 He holds a Master degree in Data Science from the Université Claude Bernard Lyon 1 and a Bachelor Degree in Mathematics from the Université de Strasbourg.
 
