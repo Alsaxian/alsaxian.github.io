@@ -45,25 +45,16 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 ### Other things he knows
 ```markdown
 `Docker`, `Kubernetes`, `Spark`, `Git`, `SQL`, `Java`, `C#`, `SAS`, `machine learning`, `statistics`, ~<s>`make sushis`</s>~ and many more.
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Xian's background
 
-4. Data Scientist
+5. Data Scientist
   - February 2020 till now, Island Labs, Germany
   - Data Analysis and Pipeline building for kitchen provider and users
+4. Freelancer in a veriety of data projects
+  - October 2018 - January 2020, China
+  - Building Docker, Spark and cloud solutions for companies and scientists
 3. Internship Biostatistics and machine learning
   - April - September 2018, Firalis SA, France
   - Statistical bio-marker analysis and machine learning on high dimensional NGS RNA-Seq data
@@ -77,4 +68,4 @@ He holds a Master degree in Data Science from the Université Claude Bernard Lyo
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Interested in him or having nice projects for coorperation? Take a look at [his Github homepage](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
