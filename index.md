@@ -37,7 +37,8 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
         "language": "Alsatian",
         "city": ["Strasbourg", "Freiburg", "Leipzig", "Basel"],
         "holiday": "beach",
-        "hotel": "Trivago"
+        "hotel": "Trivago",
+        "open-minded": true
     }        
 }
 ```
