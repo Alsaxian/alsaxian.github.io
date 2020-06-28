@@ -44,7 +44,7 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 ```
 ### Other things he knows
 ```markdown
-`Docker`, `Kubernetes`, `Spark`, `Git`, `SQL`, `Java`, `C#`, `SAS`, `machine learning`, `statistics`, ~<s>`make sushis`</s>~ and many more.
+`Docker`, `Kubernetes`, `Spark`, `Git`, `SQL`, `Java`, `C#`, `SAS`, `machine learning`, `statistics`, ~`make sushis`~ and many more.
 ```
 
 ### Xian's background
@@ -64,8 +64,8 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 1. Internship Risk Management
   - November 2015 – February 2016, Bank of Communications (Luxembourg), Luxembourg
    
-He holds a Master degree in Data Science from the Université Claude Bernard Lyon 1 and a Bachelor Degree in Mathematics from the Université de Strasbourg.
+  He holds a Master degree in Data Science from the Université Claude Bernard Lyon 1 and a Bachelor Degree in Mathematics from the Université de Strasbourg.
 
 ### Support or Contact
 
-Interested in him or having nice projects for coorperation? Take a look at [his Github homepage](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Interested in him or having nice projects for coorperation? Take a look at [his Github homepage](https://github.com/Alsaxian), write him via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring him](+33695634584). You are also sincerely invited to make suggestions to his Github account.
