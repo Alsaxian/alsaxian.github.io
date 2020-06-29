@@ -52,17 +52,22 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 5. __Data Scientist__
   - February 2020 till now, _Island Labs_, Germany
   - Data Analysis and Pipeline building for kitchen provider and users  
+  
 4. __Freelancer__ in a veriety of data projects
   - October 2018 - January 2020, China
-  - Building Docker, Spark and cloud solutions for companies and scientists
+  - Building Docker, Spark and cloud solutions for companies and scientists  
+  
 3. __Internship Biostatistics and machine learning__
   - April - September 2018, _Firalis SA_, France
-  - Statistical bio-marker analysis and machine learning on high dimensional NGS RNA-Seq data
+  - Statistical bio-marker analysis and machine learning on high dimensional NGS RNA-Seq data  
+  
 2. __Internship Statistics and machine learning__
   - July - August 2017, _Centre Hospitalier de Rouffach_, France
-  - Application of statistical and machine learning methods to psychomotor tests 
+  - Application of statistical and machine learning methods to psychomotor tests  
+  
 1. __Internship Risk Management__
-  - November 2015 – February 2016, _Bank of Communications (Luxembourg)_, Luxembourg
+  - November 2015 – February 2016, _Bank of Communications (Luxembourg)_, Luxembourg  
+   
    
   He holds a Master degree in Data Science from the Université Claude Bernard Lyon 1 and a Bachelor Degree in Mathematics from the Université de Strasbourg.
 
