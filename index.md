@@ -67,7 +67,8 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
   - Application of statistical and machine learning methods to psychomotor tests  
   
 1. __Internship Risk Management__
-  - November 2015 – February 2016, _Bank of Communications (Luxembourg)_, Luxembourg  
+  - November 2015 – February 2016, _Bank of Communications (Luxembourg)_, Luxembourg
+  - Financial data analysis, risk management, portfolio management  
    
    
   He holds a Master degree in Data Science from the Université Claude Bernard Lyon 1 and a Bachelor Degree in Mathematics from the Université de Strasbourg.
