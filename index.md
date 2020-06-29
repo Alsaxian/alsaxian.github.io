@@ -30,7 +30,8 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
         "Database": "Neo4j",
         "language": ["Python", "R"],
         "command line tool": "Windows Terminal",
-        "data visualization": ["R Markdown", "Plotly"]
+        "data visualization": ["R Markdown", "Plotly"],
+        "team spirit": 100
     },
     "life related":
     {
