@@ -1,6 +1,6 @@
 ## Welcome to Xian's Resume Homepage!
 
-  This is `Xian`, a committed __data scientist__ and __.NET CORE developer__ that helps companies build their insight-driven data analysis workflow, an exceptional translator of complex data into business value, a team worker with proven interpersonal skills.  
+  This is `Xian`, a committed __data scientist__ and __.NET Core developer__ that helps companies build their insight-driven data analysis workflow, an exceptional translator of complex data into business value, a team worker with proven interpersonal skills.  
   
   Currently located in Berlin, he also fancies the good weather of the French Côte d'Azur, the Dutch cheese and the traditional little towns of the Alpen countries. He's _open to new professional opprtunities_ across Western and Central Europe (among others DE, FR, CH, AT, BENELUX, ES, IT, MT, UK, IR), whereas especially for Germany and France he possesses a work permit which basically allows him to start immediately. Employers, HRs and job agencies are therefore welcome to reach out by droping him a line via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring him](+33695634584).  
   
