@@ -1,17 +1,17 @@
 ## Welcome to Xian's Resume Homepage!
 
-  This is `Xian`, a committed __data scientist__ and __.NET Core developer__ that helps companies build their insight-driven data analysis workflow, an exceptional translator of complex data into business value, a team worker with proven interpersonal skills.  
+  This is `Xian`, A committed _Senior Cloud Data Engineer_, _ML DevOps_, graph database designer, Kubernetes enthusiast, Java, Python and .NET developer with 5 yoe that helps companies build Cloud and on-premises ETL platforms, CI/CD-ize product mature ML models, a team player with proven interpersonal skills, a solution-focused person who is also interested by consulting and sales engineering.  
   
-  Currently located in Berlin, he also fancies the good weather of the French Côte d'Azur, the Dutch cheese and the traditional little towns of the Alpen countries. He's _open to new professional opprtunities_ across Western and Central Europe (among others DE, FR, CH, AT, BENELUX, ES, IT, MT, UK, IR), whereas especially for Germany and France he possesses a work permit which basically allows him to start immediately. Employers, HRs and job agencies are therefore welcome to reach out by droping him a line via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring him](+33695634584).  
+  Currently located in Stuttgart, he also fancies the good weather of the French Côte d'Azur, the Dutch cheese and the traditional little towns of the Alpen countries. He's _open to new professional opprtunities_ including permanent roles and freelance contracts across Western and Central Europe. Employers, HRs and job agencies are therefore welcome to reach out by droping him a line via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring him](+33695634584).  
   
   Speaks fluent German, French, English and Chinese.
 
 ### Xian's career interest
 
 #### Where he is now
-Build data storage, processing and analysis pipeline for companies' and end users' projects.
+Building AI friendly ETL and analytics platforms for companies' and end users' projects.
 #### Where he is going
-Make every data analysis "_cloudy_" and serverless.
+Making every data analysis "_cloudy_" and serverless and becoming a Lead Data Engineer / Data Scientist.
 ```sh
 docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --publish=7687:7687 --volume=$HOME/pathtoyourheart/import:/import \ 
   --volume=$HOME/pathtoyourheart/data:/data --volume=$HOME/pathtoyourheart/plugins:/plugins --volume=$HOME/pathtoyourheart/conf:/conf --env NEO4JLABS_PLUGINS='[\"apoc\"]' \
@@ -23,14 +23,19 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 {
     "work related":
     {
-        "subject": "maths",
+        "subject": "graph theory",
+        "data analytics": "Spark",
         "IDE": "VS Code",
         "cloud platform": "Azure",
         "Kubernetes tool": "Helm",
-        "database": "Neo4j",
-        "language": ["C#", "Python", "R"],
-        "command line tool": "Windows Terminal",
-        "data visualization": ["R Markdown", "Plotly"],
+        "database": ["Tigergraph", "Cassandra"],
+        "language": 
+        {
+            "OOP": "C#", 
+            "FP": "Scala", 
+            "data analytics": "R"
+        },
+        "data visualization": ["Grafana", "Kibana"],
         "team spirit": 100
     },
     "life related":
@@ -45,26 +50,34 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 ```
 ### Other things he knows
 ```markdown
-`Docker`, `Kubernetes`, `Spark`, `Git`, `SQL`, `Java`, `SAS`, `machine learning`, `statistics`, `make sushis` and many more.
+`Docker`, `Kubernetes`, `Git`, `SQL`, `Java`, `SAS`, `machine learning`, `statistics`, `make sushis` and many more.
 ```
 
 ### Xian's background
 
-5. __Data Scientist__
-  - February 2020 till now, _Island Labs_, Germany
-  - Data Analysis and Pipeline building for kitchen provider and users  
+7. __Data and Software Engineer__
+  - September 2021 - May 2022, _Halbauer GmbH_, Germany
+  - Cloud ETL Pipeline design for the automobile industry with Databricks, Spark and Python
+
+6. __Data Scientist and Engineer__
+  - February 2020 - August 2021, _Island Labs GmbH_, Germany
+  - Cloud infrastructure ETL workflow design for the kitchen industry, construction of knowledge graph with Spark, Kafka, Neo4j, Java, Scala and .NET  
   
-4. __Freelancer__ in a veriety of data projects
+5. __Freelancer__ in a veriety of data projects
   - October 2018 - January 2020, China
-  - Building Docker, Spark and cloud solutions for companies and scientists  
+  -  Diverse data science / engineering projects with public research groups and start-ups, particularly with Hadoop, Spark and Java  
   
-3. __Internship Biostatistics and machine learning__
+4. __Internship biostatistics and deep learning__
   - April - September 2018, _Firalis SA_, France
-  - Statistical bio-marker analysis and machine learning on high dimensional NGS RNA-Seq data  
+  - Statistical bio-marker analysis and deep learning on high dimensional NGS RNA-Seq data  
   
-2. __Internship Statistics and machine learning__
+3. __Internship machine learning__
   - July - August 2017, _Centre Hospitalier de Rouffach_, France
-  - Application of statistical and machine learning methods to psychomotor tests  
+  - Building an application for statistical and machine learning prediction on psychomotor tests
+  
+2. __AI-Developer__
+  - February - August 2016, _MedVision_, China
+  - AI software engineering for a diagnostic assistant system using .NET
   
 1. __Internship Risk Management__
   - November 2015 – February 2016, _Bank of Communications (Luxembourg)_, Luxembourg
