@@ -23,12 +23,12 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 {
     "work related":
     {
-        "subject": "graph theory",
-        "data analytics": "Spark",
+        "subject": ["graph theory", "scalable data processing"],
+        "topic": ["Spark structured streaming", "CI/CD in ML"],
         "IDE": "VS Code",
         "cloud platform": "Azure",
         "Kubernetes tool": "Helm",
-        "database": ["Tigergraph", "Cassandra"],
+        "database": ["Tigergraph", "Cassandra", "Elasticsearch", "Redis"],
         "language": 
         {
             "OOP": "C#", 
@@ -50,7 +50,7 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 ```
 ### Other things he knows
 ```markdown
-`Docker`, `Kubernetes`, `Git`, `SQL`, `Java`, `SAS`, `machine learning`, `statistics`, `make sushis` and many more.
+`Docker`, `Kubernetes`, `Kafka`, `Git`, `SQL`-dialects, `Java`, `machine learning`, `statistics`, `make sushis` and many more.
 ```
 
 ### Xian's background
