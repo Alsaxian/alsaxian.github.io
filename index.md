@@ -1,6 +1,6 @@
 ## Welcome to Xian's Resume Homepage!
 
-  This is `Xian`, A committed _Senior Cloud Data Engineer_, _ML DevOps_, graph database designer, Kubernetes enthusiast, Java, Python and .NET developer with 5 yoe that helps companies build Cloud and on-premises ETL platforms, CI/CD-ize product mature ML models, a team player with proven interpersonal skills, a solution-focused person who is also interested by consulting and sales engineering.  
+  This is `Xian`, A committed _Cloud Architect_, _Senior Cloud Engineer_, _ML DevOps_, graph database designer, Kubernetes enthusiast, Java, Scala, Python and .NET developer with 8 yoe that helps companies build Cloud and on-premises platforms, CI/CD-ize product mature ML models, a team player with proven interpersonal skills, a solution-focused person who is also interested by consulting and sales engineering.  
   
   Currently located in Stuttgart, he also fancies the good weather of the French Côte d'Azur, the Dutch cheese and the traditional little towns of the Alpen countries. He's _open to new professional opprtunities_ including permanent roles and freelance contracts across Western and Central Europe. Employers, HRs and job agencies are therefore welcome to reach out by droping him a line via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring him](+33695634584).  
   
@@ -9,9 +9,9 @@
 ### Xian's career interest
 
 #### Where he is now
-Building AI friendly ETL and analytics platforms for companies' and end users' projects.
+Building AI friendly enterprise platforms in the Cloud for companies' and end users' projects.
 #### Where he is going
-Making every data analysis "_cloudy_" and serverless and becoming a Lead Data Engineer / Data Scientist.
+Making everything "_cloudy_" and serverless and becoming a Lead CLoud Engineer / Senior Cloud Architect.
 ```sh
 docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --publish=7687:7687 --volume=$HOME/pathtoyourheart/import:/import \ 
   --volume=$HOME/pathtoyourheart/data:/data --volume=$HOME/pathtoyourheart/plugins:/plugins --volume=$HOME/pathtoyourheart/conf:/conf --env NEO4JLABS_PLUGINS='[\"apoc\"]' \
@@ -23,8 +23,8 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 {
     "work related":
     {
-        "subject": ["graph theory", "scalable data processing"],
-        "topic": ["Spark structured streaming", "CI/CD in ML"],
+        "subject": ["graph theory", "multi.cloud"],
+        "topic": ["Spark structured streaming", "write('once'),deploy('everywhere')"],
         "IDE": "VS Code",
         "cloud platform": "Azure",
         "Kubernetes tool": "Helm",
@@ -35,7 +35,6 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
             "FP": "Scala", 
             "data analytics": "R"
         },
-        "data visualization": ["Grafana", "Kibana"],
         "team spirit": 100
     },
     "life related":
@@ -55,33 +54,54 @@ docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --pub
 
 ### Xian's background
 
-7. __Data and Software Engineer__
-  - September 2021 - May 2022, _Halbauer GmbH_, Germany
-  - Cloud ETL Pipeline design for the automobile industry with Databricks, Spark and Python
+12. __Clod Engineer and Lead Data Engineer__
+  - April - December 2023, _Adevinta ASA_, Germany
+  - In my role as Lead Data Engineer, I led a team of specialists in the development and implementation of data warehouses and streaming services on the Google Cloud Platform (GCP) and AWS, as part of a strategic multi-cloud initiative. My leadership approach focused on inspiring and guiding the team to realize Kafka and Spark streaming services to meet the growing demands of real-time data processing for e-commerce businesses. I fostered a culture of collaboration and innovation, leading to the development of a powerful multi-cloud platform specifically designed to meet the needs of stakeholders as well as data analysts and data scientists. Emphasizing data privacy and security, I developed an IoC-based access management system for secure and efficient data transfer. Tools: Jira, Trello, Miro, Kafka, Spark, GCP, BigQuery, Dataproc, Cloud Functions, Pub/Sub, Cloud Scheduler, Looker, AWS, IAM and Policy, Role Assuming, SQS, Terraform, Terragrunt.
 
-6. __Data Scientist and Engineer__
+11. __Cloud DevOps Engineer__
+  - November 2022 – March 2023, _Edeka Digital GmbH_, Germany
+  - In this project, I played a key role in coordinating cloud migration projects and was deeply involved in Scrum methodologies. I advised and supported development teams in all Azure-related topics, particularly in implementing services like serverless computing with Azure Functions and ensuring network efficiency and security. Tools: Jira/Confluence, Azure, Terraform, Github Actions, Docker, Datadog.
+  
+10. __Senior Consultant__
+  - July - October 2022, _Centa MG GmbH_, Germany
+  - As a Senior Consultant at Centa MG GmbH, I led a team for a short-term project and advised the client on data architecture and strategy. My primary focus was on migrating enterprise data to the cloud, including building a data warehouse in AWS and developing automated pipelines with AWS Glue and Terraform for efficient data processing and transfer. Tools: Jira/Confluence, AWS EMR, AWS Glue, Terraform, Spark, Docker.
+
+9. __Cloud Engineer__
+  - September 2021 - July 2022, _Halbauer GmbH_, Germany
+  - In order to migrate a classical machine learning model to Azure, which aims to predict the vehicle repair rate, I interpreted the Python project into Spark and used Databricks, MLflow and Azure Data Factory to automate the data ingestion and to parallelize the model training. Front-end data visualization uses Grafana. Tools: Azure Data Factory, Databricks, Spark, Delta Lake, data vault, Azure Pipelines, Grafana, Snowflake.
+
+8. __Cloud Engineer__
   - February 2020 - August 2021, _Island Labs GmbH_, Germany
-  - Cloud infrastructure ETL workflow design for the kitchen industry, construction of knowledge graph with Spark, Kafka, Neo4j, Java, Scala and .NET  
+  - Kitchen furniture blueprints sometimes contain errors which should be avoided before being sent to construction. As a technical team working with a kitchen provider, we received thousands of kitchen plans on a daily basis. I designed a knowledge graph model to represent the furniture of a kitchen with geometric and graph algorithms to learn and look for errors in it, as well as a pipelined workflow on Azure to process the data. Kitchen blueprints as data are first fed into the workflow by Kafka in real time, these are then validated and sent to a Neo4j cluster by an Azure function. After the kitchen blueprints get ingested and analyzed by Neo4j, the result is sent to the Cosmos DB and returned to the client, in case an error is detected or a warning occurred. Tools: knowledge graph, Kafka, Neo4j, Azure Functions, AKS, Python and .NET.
   
-5. __Freelancer__ in a veriety of data projects
+7. __Freelancer__ in a veriety of data projects
   - October 2018 - January 2020, China
-  -  Diverse data science / engineering projects with public research groups and start-ups, particularly with Hadoop, Spark and Java  
+  -  Astronomical data can be immense and requires a big data solution to process it. Working together with astronomers, I designed a Spark application for an on premise DWH to process the data and read in from and write out to its different layers. The application includes both batch processing to deal with existent data and streaming to deal with new data coming in. I also optimized the Spark application at different levels which has improved its performance remarkably. Tools: Spark 2.x, Kafka, Hadoop, Java.
   
-4. __Internship biostatistics and deep learning__
+  
+6. __Internship biostatistics and AI__
   - April - September 2018, _Firalis SA_, France
-  - Statistical bio-marker analysis and deep learning on high dimensional NGS RNA-Seq data  
+  - The combination of omic data and machine learning / deep learning is one of the cutting-edge areas of biopharma research. In this project where the company aims to get a better understanding of the high-throughput RNA sequencing data of patients undergoing different medical treatments after a myocardial infarction, my machine learning and deep learning algorithms came to help. Tools: Python and R.  
   
-3. __Internship machine learning__
+5. __Internship psychometry and AI__
   - July - August 2017, _Centre Hospitalier de Rouffach_, France
-  - Building an application for statistical and machine learning prediction on psychomotor tests
+  - In the psychomotor therapy the diagnosis of schizophrenia had been to that date carried out by the observation and the subjective judgment of medical professionals. With the hope to develop an AI assistant helping physicians make better and more accurate clinical decisions based on more quantitative indicators, I built an application using machine learning and statistical models to predict schizophrenia. Tools: R
   
-2. __AI-Developer__
+4. __AI Developer__
   - February - August 2016, _MedVision_, China
-  - AI software engineering for a diagnostic assistant system using .NET
+  - As a backend developer at MedVision, my role was pivotal in the development of a sophisticated diagnosis assistant system. I focused on designing and implementing user interfaces and software modules in the .NET framework to integrate algorithms developed by machine learning scientists. My work involved using C# for crafting intuitive and responsive desktop applications, ensuring seamless integration of complex AI algorithms for medical diagnostics, particularly for conditions like pulmonary sarcoidosis. My responsibility also included optimizing software performance and ensuring data accuracy through rigorous testing and collaboration with the AI team. Tools: .NET, Windows Forms.
   
-1. __Internship Risk Management__
+3. __Internship Risk Management__
   - November 2015 – February 2016, _Bank of Communications (Luxembourg)_, Luxembourg
-  - Financial data analysis, risk management, portfolio management  
+  - As a risk analyst I ensured the role of developing statistical tools to monitor credit risk, market risk, liquidity risk and operational risk of the bank. Tools: R and Excel.
+
+2. __Backend Developer__
+  - January 2015 - October 2015, _Wanjia Ltd._, China
+  - As a Backend Developer at Wanjia, my role centered around contributing to the development of backend systems for online retail platforms. My work primarily involved the implementation of Python-based data processing solutions, essential for efficient inventory management and customer data handling in the online retail sector. A significant part of my responsibilities included working on system architecture, focusing on data security and the optimization of performance. Tools: Python, Django, PostgreSQL, RabbitMQ.
+
+1. __Backend Developer__
+  - January 2013 - December 2014, _Shanghai Teso Co._, Luxembourg
+  - At Teso, my role as a Backend Developer involved the creation and maintenance of logistics management systems, with a focus on optimizing performance and managing databases effectively. I was responsible for utilizing Java and the Spring Framework to construct robust and scalable services, catering to a dynamic and demanding logistics environment. My work also included the integration of SOAP and RESTful APIs to facilitate seamless communication with various third-party services. Tools: Java, Spring, MySQL, SOAP, RESTful.
    
    
   He holds a Master degree in Data Science from the Université Claude Bernard Lyon 1 and a Bachelor Degree in Mathematics from the Université de Strasbourg.
