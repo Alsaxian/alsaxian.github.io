@@ -67,7 +67,7 @@ docker run -d --name=xianinaction --hostname=yesheis --publish=7474:7474 --publi
   - As a Senior Consultant at Centa MG GmbH, I led a team for a short-term project and advised the client on data architecture and strategy. My primary focus was on migrating enterprise data to the cloud, including building a data warehouse in AWS and developing automated pipelines with AWS Glue and Terraform for efficient data processing and transfer. Tools: Jira/Confluence, AWS EMR, AWS Glue, Terraform, Spark, Docker.
 
 9. __Cloud Engineer__
-  - September 2021 - July 2022, _Halbauer GmbH_, Germany
+  - September 2021 - July 2022, _Mercedes Benz Tech Innovation GmbH_, Germany
   - In order to migrate a classical machine learning model to Azure, which aims to predict the vehicle repair rate, I interpreted the Python project into Spark and used Databricks, MLflow and Azure Data Factory to automate the data ingestion and to parallelize the model training. Front-end data visualization uses Grafana. Tools: Azure Data Factory, Databricks, Spark, Delta Lake, data vault, Azure Pipelines, Grafana, Snowflake.
 
 8. __Cloud Engineer__
