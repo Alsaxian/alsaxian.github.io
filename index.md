@@ -1,6 +1,6 @@
 ## Welcome to Xian's Resume Homepage!
 
-  This is `Xian`, A committed _Cloud Architect_, _Senior Cloud Engineer_, _ML DevOps_, graph database designer, Kubernetes enthusiast, Java, Scala, Python and .NET developer with 8 yoe that helps companies build Cloud and on-premises platforms, CI/CD-ize product mature ML models, a team player with proven interpersonal skills, a solution-focused person who is also interested by consulting and sales engineering.  
+  This is `Xian`, A committed _Cloud Architect_, _Senior Cloud Engineer_, _ML and Data DevOps_, graph database designer, Kubernetes enthusiast, Java, Scala, Python and .NET developer with 8 yoe that helps companies build Cloud and on-premises platforms, CI/CD-ize product mature ML models, a team player with proven interpersonal skills, a solution-focused person who is also interested by consulting and sales engineering.  
   
   Currently located in Stuttgart, he also fancies the good weather of the French Côte d'Azur, the Dutch cheese and the traditional little towns of the Alpen countries. He's _open to new professional opprtunities_ including permanent roles and freelance contracts across Western and Central Europe. Employers, HRs and job agencies are therefore welcome to reach out by droping him a line via [xian.yang@hueninger.com](mailto:xian.yang@hueninger.com) or [ring him](+33695634584).  
   
