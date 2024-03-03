@@ -11,7 +11,7 @@
 #### Where he is now
 Building AI friendly enterprise platforms in the Cloud for companies' and end users' projects.
 #### Where he is going
-Making everything "_cloudy_" and serverless and becoming a Lead CLoud Engineer / Senior Cloud Architect.
+Making everything "_cloudy_" and serverless and becoming a Lead Cloud Engineer / Senior Cloud Architect.
 ```sh
 docker run -d --name=xianlovesyou --hostname=yeshedoes --publish=7474:7474 --publish=7687:7687 --volume=$HOME/pathtoyourheart/import:/import \ 
   --volume=$HOME/pathtoyourheart/data:/data --volume=$HOME/pathtoyourheart/plugins:/plugins --volume=$HOME/pathtoyourheart/conf:/conf --env NEO4JLABS_PLUGINS='[\"apoc\"]' \
